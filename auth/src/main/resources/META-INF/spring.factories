@@ -1,0 +1,6 @@
+org.springframework.context.ApplicationContextInitializer=\
+com.sapan.chat.auth.initializer.SecurityEnvironmentInitializer
+# com.sapan.chat.auth.initializer.AnotherInitializer
+
+org.springframework.context.ApplicationListener=\
+com.sapan.chat.auth.listener.CustomAppListener
